@@ -2,6 +2,7 @@
 웹 담당 : 홍도영, 박준수
 
 = 디렉토리 =
+
 3D,uinity => 유니티-웹 관련자료
 admincss,adminjs => 관리자 페이지 css 등 설정자료
 banner,css,design,image,img,ipchalimg,user_img,vendors,scss,slick => 홈페이지의 이미지 자료
