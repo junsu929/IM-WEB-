@@ -4,10 +4,15 @@
 = 디렉토리 =
 
 3D,uinity => 유니티-웹 관련자료
+
 admincss,adminjs => 관리자 페이지 css 등 설정자료
+
 banner,css,design,image,img,ipchalimg,user_img,vendors,scss,slick => 홈페이지의 이미지 자료
+
 upload,upload2 => 이미지 저장장소
+
 WEB-INF => 라이브러리와 자바 클래스 저장장소
+
 
 = 페이지 =
 adminBoard1.jsp => 커뮤니티 게시판 관리페이지
